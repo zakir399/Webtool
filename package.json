@@ -1,14 +1,14 @@
 {
   "name": "Web-tool",
   "version": "2.1.0",
-  "description": "Canvo tool by Superstar",
+  "description": "Canvo tool by superstar",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zakir399/Webtool.git"
+    "url": "git+https://github.com/zakir399/Webtool"
   },
   "keywords": [
     "Web-Tool",
@@ -16,7 +16,7 @@
     "Web-to-web",
     "tool"
   ],
-  "author": "Superstar",
+  "author": "superstar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zakir399/Web/issues"
